@@ -1,4 +1,4 @@
-.gitignore
 appsettings.json
 bin
 obj
+ClientApp/node_modules/*
