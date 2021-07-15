@@ -2,3 +2,5 @@ appsettings.json
 bin
 obj
 ClientApp/node_modules/*
+ClientApp/.browserslistrc
+ClientApp/.editorconfig
